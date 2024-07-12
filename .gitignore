@@ -1,0 +1,13 @@
+# Ignore node_modules directories
+frontend/vite-project/node_modules/
+backend/node_modules/
+
+# Other common node-related ignores
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore build directories
+frontend/vite-project/build/
+backend/build/
